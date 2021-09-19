@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Leonardo Santos</h1>
-<h3 align="center">A frontend developer who will code for food.</h3>
+<h3 align="center">A frontend developer striving to become a Full Stack Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinsl30&label=Profile%20views&color=0e75b6&style=flat" alt="martinsl30" /> </p>
 
