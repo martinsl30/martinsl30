@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C# and .Net.**
 
-- 👨‍💻 All of my projects are available at [https://codepen.io/martinsl30](https://codepen.io/martinsl30)
+- 👨‍💻 Some of my projects are available at [https://codepen.io/martinsl30](https://codepen.io/martinsl30)
 
 - 📫 How to reach me **leonardo.santos.ti87@gmail.com**
 
