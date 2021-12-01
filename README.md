@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinsl30" alt="martinsl30" /></a> </p>
 
-- 🌱 I’m currently learning **C# and .Net.**
+- 🌱 I’m currently learning **C# , .Net and Shell.**
 
 - 👨‍💻 Some of my projects are available at [https://codepen.io/martinsl30](https://codepen.io/martinsl30)
 
